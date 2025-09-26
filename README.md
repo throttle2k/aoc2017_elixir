@@ -5,4 +5,4 @@ My solutions for Advent of Code 2017 in Elixir
 -[x] Day 2: Corruption Checksum
 -[x] Day 3: Spiral Memory
 -[x] Day 4: High-Entropy Passphrases
--[ ] Day 5: A Maze of Twisty Trampolines, All Alike
+-[x] Day 5: A Maze of Twisty Trampolines, All Alike
