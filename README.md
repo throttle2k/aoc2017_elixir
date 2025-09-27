@@ -10,3 +10,4 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 7: Recursive Circus
 - [x] Day 8: I Heard You Like Registers
 - [x] Day 9: Stream Processing
+- [x] Day 10: Knot Hash
