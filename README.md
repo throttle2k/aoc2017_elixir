@@ -7,4 +7,5 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 4: High-Entropy Passphrases
 - [x] Day 5: A Maze of Twisty Trampolines, All Alike
 - [x] Day 6: Memory Reallocation
-- [ ] Day 7: Recursive Circus
+- [x] Day 7: Recursive Circus
+- [x] Day 8: I Heard You Like Registers
