@@ -12,3 +12,4 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 9: Stream Processing
 - [x] Day 10: Knot Hash
 - [x] Day 11: Hex Ed
+- [x] Day 12: Digital Plumber
