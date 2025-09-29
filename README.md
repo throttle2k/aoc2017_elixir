@@ -17,3 +17,4 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 14: Disk Defragmentation
 - [x] Day 15: Dueling Generators
 - [x] Day 16: Permutation Promenade
+- [ ] Day 17: Spinlock
