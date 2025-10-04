@@ -19,4 +19,4 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 16: Permutation Promenade
 - [x] Day 17: Spinlock
 - [x] Day 18: Duet
-- [ ] Day 19: A Series of Tubes
+- [x] Day 19: A Series of Tubes

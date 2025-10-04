@@ -15,4 +15,18 @@ defmodule Day19.ASeriesOfTubesTest do
 
     assert ASeriesOfTubes.part1_with_input(input) == "ABCDEF"
   end
+
+  test "part2 - count steps" do
+    input = """
+        |           
+        |  +--+    
+        A  |  C    
+    F---|----E|--+ 
+        |  |  |  D 
+        +B-+  +--+ 
+
+    """
+
+    assert ASeriesOfTubes.part2_with_input(input) == 38
+  end
 end
