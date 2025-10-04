@@ -18,4 +18,18 @@ defmodule Day18.DuetTest do
 
     assert Duet.Part1.run_with_input(input) == 4
   end
+
+  test "part2 - concurrent programs" do
+    input = """
+    snd 1
+    snd 2
+    snd p
+    rcv a
+    rcv b
+    rcv c
+    rcv d
+    """
+
+    assert Duet.Part2.run_with_input(input) == 3
+  end
 end
