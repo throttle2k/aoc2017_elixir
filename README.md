@@ -21,3 +21,4 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 18: Duet
 - [x] Day 19: A Series of Tubes
 - [x] Day 20: Particle Swarm
+- [x] Day 21: Fractal Art
