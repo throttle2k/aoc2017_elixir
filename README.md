@@ -23,3 +23,4 @@ My solutions for Advent of Code 2017 in Elixir
 - [x] Day 20: Particle Swarm
 - [x] Day 21: Fractal Art
 - [x] Day 22: Sporifica Virus
+- [x] Day 23: Coprocessor Conflagration
